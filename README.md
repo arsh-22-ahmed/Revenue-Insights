@@ -1,5 +1,5 @@
 # Revenue-Insights-in-Hospitality-Domain
-[](https://github.com/arsh-22-ahmed/Revenue-Insights/blob/main/Snapshot%20of%20Dashboard%20(2).png)
+![](https://github.com/arsh-22-ahmed/Revenue-Insights/blob/main/Snapshot%20of%20Dashboard%20(2).png)
 
 Project Overview
 This project presents a Power BI dashboard designed to analyze revenue performance, occupancy trends, and operational metrics across multiple properties in the hospitality sector. The dashboard provides actionable insights for optimizing revenue management, resource allocation, and customer satisfaction.
