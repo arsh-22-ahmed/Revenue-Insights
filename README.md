@@ -54,4 +54,8 @@ Revenue Drivers: Higher ADR in Mumbai (16,142) correlates with stronger revenue 
 Operational Efficiency: Realisation % is stable across properties (~70%), indicating effective booking management.
 
 
-RevPAR: Revenue per Available Room | DSRN: Daily Settable Room Nights | ADR: Average Daily Rate | DBRN: Daily Booked Room Nights | DURN: Daily Utilized Room Nights
+### RevPAR: Revenue per Available Room 
+### DSRN: Daily Settable Room Nights 
+### ADR: Average Daily Rate 
+### DBRN: Daily Booked Room Nights 
+### DURN: Daily Utilized Room Nights
